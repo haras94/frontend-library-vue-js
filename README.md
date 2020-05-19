@@ -56,15 +56,15 @@ VUE_APP_SECRET_KEY=YOUR_API_KEY
 <div class="demo">
     <div class="items">
     	<h4 class="title-demo">Landing Page</h4>
-		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/1.PNG">  
+		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/Library-1.png">  
     </div>
     <div class="items">
     	<h4 class="title-demo">Register Page</h4>
-		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/2.PNG">  
+		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/Library-2.png">  
     </div>
     <div class="items">
     	<h4 class="title-demo">Login</h4>
-		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/3.PNG">  
+		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/Library-3.png">  
     </div>
     </div>
     <div class="items">
