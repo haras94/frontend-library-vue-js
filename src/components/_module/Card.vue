@@ -64,6 +64,7 @@ export default {
     overflow-y: hidden !important;
     padding-bottom: 20px;
     font-family: 'Montserrat', sans-serif;
+    object-fit: cover;
 }
 
 
