@@ -69,8 +69,7 @@ VUE_APP_SECRET_KEY=YOUR_API_KEY
     </div>
     <div class="items">
     	<h4 class="title-demo">Dashboard</h4>
-		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/4.PNG">
-    <img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/5.PNG">
+		<img class="img-demo" src="https://github.com/haras94/frontend-library-vue-js/blob/master/src/assets/ss%20web/Library-6.png">
     </div>
     <div class="items">
     	<h4 class="title-demo">Detail Page</h4>
