@@ -73,7 +73,7 @@ VUE_APP_SECRET_KEY=YOUR_API_KEY
     </div>
     <div class="items">
     	<h4 class="title-demo">Detail Page</h4>
-		<img class="img-demo" src="">  
+		<img class="img-demo" src="https://drive.google.com/file/d/1wNyzjH4mOHxr9xruZ4GJQuGgLK44z2_j/view?usp=sharing">  
     </div>
 </div>
 </section>
